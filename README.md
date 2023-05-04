@@ -19,9 +19,7 @@
  <hr>
 <h1 align="left">Holiday Package Prediction</h1>
 <p align=left>
-  <a href="https://github.com/lava0212/Edubridge_Exl_DA_Project/">click here to visit website</a>
-</p>
-  
+ 
 A model for predict users who have the potential to buy Wellness Tourism Package.
   
 # Dataset Description
