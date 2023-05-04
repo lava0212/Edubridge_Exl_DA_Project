@@ -1,8 +1,27 @@
-### Name :Lavanya.P
-### Batch :2022-8410
-### Enrollment No: EBEON112686215
-# Holiday-Package-Prediction
+<table align="center">
+  <tr>
+    <td>Name</td>
+    <td>Lavanya.P</td>
+  </tr>
+  <tr>
+    <td>Enrollment No</td>
+    <td>EBEON1122686215</td>
+  </tr>
+  <tr>
+    <td>Batch</td>
+    <td>2022-8410 DA</td>
+  </tr>
+  <tr>
+    <td>Center</td>
+    <td>Chennai EXL</td>
+  </tr>
+ </table>
+ <hr>
+<h1 align="left">Holiday Package Prediction</h1>
+<p align=left>
+  
 A model for predict users who have the potential to buy Wellness Tourism Package.
+  
 # Dataset Description
 This data is offer data on holiday packages originating from a travel company and plans to expand its business through the latest package offerings, namely the Wellness Tourism Package with the target of whether the holiday package is taken or not(ProdTaken).
 # Background and Objective
