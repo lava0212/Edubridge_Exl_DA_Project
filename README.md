@@ -57,11 +57,5 @@ Performance results based on the precision score on Random forestclassifier are 
 When viewed from the accuracy of the Random forestclassifier modeling, the score is still quite high, namely 0.88
 # Conclusion
 The final model we chose was Random forestclassifier with 93% performance from the recall matrix or it can be said that this model can predict the number of customers who buy vacation packages by 88%. . Important features to consider in bidding to customers from modeling results using XGBoost are Passport, Designation, Product Pitched, Single Marital Status, and City Tier.
-# Business Recommendations Suggestion
-For high potential customers
 
-Offering vacation packages to domestic & international destinations for customers who have passports. Offering Wellness packages at low prices, such as Basic & Standard to customers who have never purchased a vacation package and for those who have Executive & Manager positions. Intensifying promotions to customers from big & medium cities. Single offering customers, it is advisable to promote holiday packages outside of major holidays.
 
-For low potential customer
-
-Offering Wellness Packages for domestic destinations for customers who do not have a passport. Offers Wellness Packages with a medium to high price range for those who have at least senior manager positions. Customers who are married will get a Wellness Package promotion on major holidays (such as New Year, etc.).
