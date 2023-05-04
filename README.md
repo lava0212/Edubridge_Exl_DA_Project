@@ -54,6 +54,6 @@ Based on the recall score, Random forestclassifier has the best performance comp
 Performance results based on the precision score on Random forestclassifier are also at >=0.50 according to the threshold that we have set, namely with a score of 0.93.
 When viewed from the accuracy of the Random forestclassifier modeling, the score is still quite high, namely 0.88
 # Conclusion
-The final model we chose was Random forestclassifier with 93% performance from the recall matrix or it can be said that this model can predict the number of customers who buy vacation packages by 88%. . Important features to consider in bidding to customers from modeling results using XGBoost are Passport, Designation, Product Pitched, Single Marital Status, and City Tier.
+The final model we chose was Random forestclassifier with 93% performance from the recall matrix or it can be said that this model can predict the number of customers who buy vacation packages by 88%. . Important features to consider in bidding to customers from modeling results using Random ForestClassifier are Passport, Designation, Product Pitched, Single Marital Status, and City Tier.
 
 
